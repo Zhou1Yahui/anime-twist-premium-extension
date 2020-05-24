@@ -1,11 +1,11 @@
-# domodel-diary-extension [![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/thoughtsunificator/domodel-diary-extension)
+# anime-twist-premium-extension [![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/thoughtsunificator/anime-twist-premium-extension)
 
-Browser Extension for domodel-diary
+Browser Extension for anime-twist-premium
 
 Available on:
 
-- [Firefox](https://addons.mozilla.org/en-US/firefox/addon/domodel-diary/)
-- [Chrome](https://chrome.google.com/webstore/detail/domodel-diary/hncoaagegcdnajffjpkldhfceipfgnnf)
+- [Firefox](https://addons.mozilla.org/en-US/firefox/addon/anime-twist-premium/)
+- Chrome (Coming soon)
 
 ## Getting started
 
@@ -13,7 +13,7 @@ Available on:
 
 Clone the repository along with its submodules:
 
-```git clone --recurse-submodules https://github.com/thoughtsunificator/domodel-diary-extension.git```
+```git clone --recurse-submodules https://github.com/thoughtsunificator/anime-twist-premium-extension.git```
 
 ### Run
 
