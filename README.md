@@ -5,7 +5,7 @@ Browser Extension for anime-twist-premium
 Available on:
 
 - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/anime-twist-premium/)
-- Chrome (Coming soon)
+- [Chrome](https://chrome.google.com/webstore/detail/anime-twist-premium/nkojcnopablpombnbfadmhbhdlepgcdo)
 
 ## Getting started
 
