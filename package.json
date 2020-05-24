@@ -1,6 +1,6 @@
 {
 	"name": "anime-twist-premium",
-	"version": "1.6.0",
+	"version": "1.1.0",
 	"description": "Your Anime Twist's favorite accessory",
 	"scripts": {
 		"start:firefox": "web-ext run --source-dir ./public/",
