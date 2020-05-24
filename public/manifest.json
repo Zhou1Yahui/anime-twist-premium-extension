@@ -1,0 +1,37 @@
+{
+
+	"description": "Your Anime Twist's favorite accessory",
+	"manifest_version": 2,
+	"name": "anime-twist-premium",
+	"short_name": "atp",
+	"version": "1.0",
+	"homepage_url": "http://thoughtsunificator.me",
+	"icons": {
+		"16": "resource/icon16.png",
+		"38": "resource/icon38.png",
+		"48": "resource/icon48.png",
+		"128": "resource/icon128.png"
+	},
+	"content_scripts": [
+		{
+			"matches": ["*://twist.moe/*"],
+			"js": [
+				"lib/userinterface.js/src/userinterface.js",
+				"lib/userinterface.js-collection/userinterface/popup.js",
+				"lib/userinterface.js-collection/userinterface/popup-confirm.js",
+				"lib/anime-twist-premium/object/watch-list.js",
+				"lib/anime-twist-premium/object/watch-list-entry.js",
+				"lib/anime-twist-premium/userinterface/watch-list-add.js",
+				"lib/anime-twist-premium/userinterface/watch-list-entry.js",
+				"lib/anime-twist-premium/userinterface/watch-list-entries.js",
+				"lib/anime-twist-premium/userinterface/watch-list-menu.js",
+				"lib/anime-twist-premium/userinterface/watch-list.js",
+				"lib/anime-twist-premium/anime-twist-premium.js"
+			],
+			"css": [
+				"lib/anime-twist-premium/resource/anime-twist-premium.css"
+			],
+			"run_at": "document_start"
+		}
+	]
+}

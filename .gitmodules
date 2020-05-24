@@ -1,0 +1,9 @@
+[submodule "public/lib/anime-twist-premium"]
+	path = public/lib/anime-twist-premium
+	url = https://github.com/thoughtsunificator/anime-twist-premium
+[submodule "public/lib/userinterface.js"]
+	path = public/lib/userinterface.js
+	url = https://github.com/thoughtsunificator/userinterface.js
+[submodule "public/lib/userinterface.js-collection"]
+	path = public/lib/userinterface.js-collection
+	url = https://github.com/thoughtsunificator/userinterface.js-collection
