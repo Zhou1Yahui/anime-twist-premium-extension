@@ -4,7 +4,7 @@
 	"manifest_version": 2,
 	"name": "anime-twist-premium",
 	"short_name": "atp",
-	"version": "1.3",
+	"version": "1.4",
 	"homepage_url": "http://thoughtsunificator.me",
 	"icons": {
 		"16": "resource/icon16.png",
@@ -24,10 +24,14 @@
 				"lib/userinterface.js-collection/userinterface/popup.js",
 				"lib/userinterface.js-collection/userinterface/popup-confirm.js",
 				"lib/anime-twist-premium/object/atp.js",
+				"lib/anime-twist-premium/object/search.js",
+				"lib/anime-twist-premium/object/search-entry.js",
 				"lib/anime-twist-premium/data/search-engine.js",
 				"lib/anime-twist-premium/object/watch-list.js",
 				"lib/anime-twist-premium/object/watch-list-entry.js",
 				"lib/anime-twist-premium/userinterface/atp.js",
+				"lib/anime-twist-premium/userinterface/search.js",
+				"lib/anime-twist-premium/userinterface/search-random.js",
 				"lib/anime-twist-premium/userinterface/watch-list-add.js",
 				"lib/anime-twist-premium/userinterface/watch-list-entry.js",
 				"lib/anime-twist-premium/userinterface/watch-list-entries.js",
@@ -37,7 +41,8 @@
 			],
 			"css": [
 				"lib/anime-twist-premium/resource/anime-twist-premium.css",
-				"lib/anime-twist-premium/resource/watchlist.css"
+				"lib/anime-twist-premium/resource/watchlist.css",
+				"lib/anime-twist-premium/resource/search.css"
 			],
 			"run_at": "document_start"
 		}
