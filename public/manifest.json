@@ -4,7 +4,7 @@
 	"manifest_version": 2,
 	"name": "anime-twist-premium",
 	"short_name": "atp",
-	"version": "1.4.2",
+	"version": "1.4.3",
 	"homepage_url": "http://thoughtsunificator.me",
 	"icons": {
 		"16": "resource/icon16.png",
