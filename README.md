@@ -2,6 +2,8 @@
 
 Browser Extension for anime-twist-premium
 
+![](screenshot.png)
+
 Available on:
 
 - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/anime-twist-premium/)
