@@ -4,7 +4,7 @@
 	"manifest_version": 2,
 	"name": "anime-twist-premium",
 	"short_name": "atp",
-	"version": "1.4.4",
+	"version": "1.4.6",
 	"homepage_url": "http://thoughtsunificator.me",
 	"icons": {
 		"16": "resource/icon16.png",
@@ -32,6 +32,7 @@
 				"lib/anime-twist-premium/userinterface/watch-list-entry.js",
 				"lib/anime-twist-premium/userinterface/watch-list-entries.js",
 				"lib/anime-twist-premium/userinterface/watch-list-menu.js",
+				"lib/anime-twist-premium/userinterface/watch-list-menu-toggles.js",
 				"lib/anime-twist-premium/userinterface/watch-list.js",
 				"lib/anime-twist-premium/userinterface/search.js",
 				"lib/anime-twist-premium/userinterface/search-random.js",
