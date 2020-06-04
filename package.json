@@ -3,7 +3,7 @@
 	"version": "1.0.0",
 	"description": "Your Anime Twist's favorite accessory",
 	"scripts": {
-		"start:firefox": "web-ext run -v --source-dir ./public/",
+		"start": "web-ext run -v --source-dir ./public/",
 		"build": "web-ext build --source-dir ./public/"
 	},
 	"author": "Romain Lebesle <oss@thoughtsunificator.me> (https://thoughtsunificator.me)",

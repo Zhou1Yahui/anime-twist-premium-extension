@@ -20,7 +20,6 @@ Clone the repository along with its submodules:
 ### Run
 
 - npm install
-- npm run start:firefox
 - npm start
 
 ### Build
